@@ -8090,7 +8090,7 @@ body .ui-tooltip {
 /*----------------------------------------*/
 .single-service-item {
   background: var(--tv-common-white);
-  padding: 30px 28px;
+  padding: 26px 28px 20px 28px;
   border-radius: 50px 0 50px 0;
   transition: 0.3s all;
   position: relative;
